@@ -153,7 +153,7 @@
                 <label for="mushrooms">Mushrooms</label>
                 <input type="checkbox" id="onions" name="toppings[]" value="onions">
                 <label for="onions">Onions</label>
-                <!-- add more toppings as needed -->
+             
 
                 <!-- crust type -->
                 <label for="crust">Crust:</label>
